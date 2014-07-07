@@ -13,4 +13,4 @@ mvn clean jfx:jar
 java -jar target\jfx\app\telosys-tools-cli-0.0.1-SNAPSHOT.jar
 ```
 
-To launch the GUI, use the ```gui```
+To launch the GUI, use the ```gui``` command.
